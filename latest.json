@@ -1,0 +1,32 @@
+﻿{
+    "schemaVersion":  1,
+    "version":  "0.2.0",
+    "tag":  "v0.2.0",
+    "sourceRepository":  "petit-mint/kso",
+    "sourceCommit":  "c47419720d855b795b45be958e1d8ab2750793eb",
+    "releaseRepository":  "petit-mint/kso-releases",
+    "releasePage":  "https://github.com/petit-mint/kso-releases/releases/tag/v0.2.0",
+    "generatedAtUtc":  "2026-08-15T12:24:47.5888826Z",
+    "files":  [
+                  {
+                      "name":  "KSO_Pilot_0.2.0_Distribution.zip",
+                      "sizeBytes":  4066320,
+                      "sha256":  "9b0ac9d438f89be6ba8be680a343e1971db277de49bca0d65521979e3ceaa4ce"
+                  },
+                  {
+                      "name":  "KSO_Pilot_0.2.0_x64-setup.exe",
+                      "sizeBytes":  1327567,
+                      "sha256":  "0a1fd02c6d57639f370fd79e61eabde27ef9115fa60b6ea6034cf4dfb77937b5"
+                  },
+                  {
+                      "name":  "KSO_Pilot_0.2.0_x64-setup.exe.sha256",
+                      "sizeBytes":  95,
+                      "sha256":  "39838e68a043938774b98c7a4cd9c3bcf4d48ded504d656f4a4c708d4cdf6348"
+                  },
+                  {
+                      "name":  "KSO_Operation_Guide_Pilot_0.2.0.zip",
+                      "sizeBytes":  2629068,
+                      "sha256":  "76ae31239a704dd13ef8ceb6a98196a50ffb3b0132d180c76fc056b2bfb58270"
+                  }
+              ]
+}
