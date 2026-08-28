@@ -24,10 +24,12 @@ KSOパイロット版のWindows向け公開配布リポジトリです。
 
 [Releases](https://github.com/petit-mint/kso-releases/releases)では、次のファイルを公開しています。
 
-- `KSO_Pilot_<version>_Distribution.zip`: インストーラーと手順書をまとめた配布パッケージ
-- `KSO_Pilot_<version>_x64-setup.exe`: Windows 64ビット版インストーラー
-- `KSO_Pilot_<version>_x64-setup.exe.sha256`: インストーラーのSHA-256
-- `KSO_Operation_Guide_Pilot_<version>.zip`: 操作ガイド
+| ファイル | 内容 |
+| --- | --- |
+| `KSO_Pilot_<version>_Distribution.zip` | 推奨。インストーラー、インストール手順書、操作ガイド、変更履歴をまとめた配布パッケージです。 |
+| `KSO_Pilot_<version>_x64-setup.exe` | Windows 64ビット版のインストーラー単体です。手順書をすでにお持ちの方向けです。 |
+| `KSO_Pilot_<version>_x64-setup.exe.sha256` | インストーラーが正しくダウンロードされたか確認するためのSHA-256値です。 |
+| `KSO_Operation_Guide_Pilot_<version>.zip` | 操作ガイドのみをまとめたファイルです。 |
 
 ## SHA-256の確認
 
