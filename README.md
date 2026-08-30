@@ -4,23 +4,23 @@ KSOパイロット版のWindows向け公開配布リポジトリです。
 
 ## 最新版
 
-**KSO Pilot 0.4.0**をプレリリースとして公開しています。
+**KSO Pilot 0.5.0**をプレリリースとして公開しています。
 
-[KSO Pilot 0.4.0のダウンロードと変更履歴](https://github.com/petit-mint/kso-releases/releases/tag/v0.4.0)
+[KSO Pilot 0.5.0のダウンロードと変更履歴](https://github.com/petit-mint/kso-releases/releases/tag/v0.5.0)
 
 パイロット版は正式版に向けた検証中のリリースです。配信本番で使用する前に、使用するPC、OBS設定、セットリストで動作を確認してください。
 
-## 0.4.0の主な変更
+## 0.5.0の主な変更
 
-- セットリスト作成をメインタブへ独立
-- 設定を「基本設定」「配信操作」「OBS接続」「表示デザイン」の4カテゴリーへ再編
-- 広い画面と狭い画面に対応した設定カテゴリーナビゲーション
-- OBS接続と表示デザイン間の相互導線
-- 既存のテーマ、ショートカット、OBSプロファイル、LRC、セットリストとの互換性維持
+- 利用者が保存先を選べるマイソング／レパートリー管理
+- マイソングとセットリストの双方向連携、アーティスト情報、曲順ドラッグ、複製
+- 実際の歌唱履歴、歌唱回数・最終歌唱日の自動更新と取り消し
+- Markdown／CSV／YouTubeチャプター用の配信後出力
+- セットリストv1と既存のテーマ、ショートカット、OBS設定との互換性維持
 
 ## ダウンロード
 
-初めて利用する場合は、インストーラーと操作ガイドをまとめた`KSO_Pilot_0.4.0_Distribution.zip`を推奨します。
+初めて利用する場合は、インストーラーと操作ガイドをまとめた`KSO_Pilot_0.5.0_Distribution.zip`を推奨します。
 
 [Releases](https://github.com/petit-mint/kso-releases/releases)では、次のファイルを公開しています。
 
@@ -39,10 +39,10 @@ PowerShellで次のコマンドを実行し、同梱の`.sha256`ファイルに�
 Get-FileHash -Algorithm SHA256 .\KSO_Pilot_<version>_x64-setup.exe
 ```
 
-0.4.0インストーラーの正しいSHA-256は次の値です。
+0.5.0インストーラーの正しいSHA-256は次の値です。
 
 ```text
-69951ed3e7c38cea009cbf39843e3f379d37817fc67b13eed58d77b1df28b343
+dded0f28fb4ad9f952b2861de5264106d8f0ee366d186d0613e0b33f9cd2df16
 ```
 
 `Get-FileHash`を利用できない環境では、Windows標準の次のコマンドでも確認できます。
