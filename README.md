@@ -1,4 +1,4 @@
-﻿# KSO Releases
+# KSO Releases
 
 KSOパイロット版のWindows向け公開配布リポジトリです。
 
@@ -42,7 +42,7 @@ Get-FileHash -Algorithm SHA256 .\KSO_Pilot_0.6.0_x64-setup.exe
 0.6.0インストーラーの正しいSHA-256は次の値です。
 
 ```text
-f4b82eb75c9b0089cf663ff48b958cc20d0e172dfd47c64bb26f8297f5af5f2c
+e503066c32d435d48efa3b0c8286b76345dde2c20ec0e73f52ee6e95ed73998c
 ```
 
 `Get-FileHash`を利用できない環境では、Windows標準の次のコマンドでも確認できます。

@@ -1,32 +1,32 @@
-﻿{
-    "schemaVersion":  1,
-    "version":  "0.6.0",
-    "tag":  "v0.6.0",
-    "sourceRepository":  "petit-mint/kso",
-    "sourceCommit":  "5d017f31db8306aef1f5cb2948e6fa49798ce300",
-    "releaseRepository":  "petit-mint/kso-releases",
-    "releasePage":  "https://github.com/petit-mint/kso-releases/releases/tag/v0.6.0",
-    "generatedAtUtc":  "2026-09-06T00:36:17.8669470Z",
-    "files":  [
-                  {
-                      "name":  "KSO_Pilot_0.6.0_Distribution.zip",
-                      "sizeBytes":  4964287,
-                      "sha256":  "a89cbf59e2f643564e7554c08d0d0efa3f52cba0c6ef1a5efbb396a8e301d087"
-                  },
-                  {
-                      "name":  "KSO_Pilot_0.6.0_x64-setup.exe",
-                      "sizeBytes":  1390999,
-                      "sha256":  "f4b82eb75c9b0089cf663ff48b958cc20d0e172dfd47c64bb26f8297f5af5f2c"
-                  },
-                  {
-                      "name":  "KSO_Pilot_0.6.0_x64-setup.exe.sha256",
-                      "sizeBytes":  95,
-                      "sha256":  "a2c29e3d8dd596b9d4088a06b0d010b82a608c33eaa9aff585251c7bca235c76"
-                  },
-                  {
-                      "name":  "KSO_Operation_Guide_Pilot_0.6.0.zip",
-                      "sizeBytes":  3455032,
-                      "sha256":  "32e86dbf76e2cf0ed249cb2ae1c9781743a2576177cd0f3ad2e73ef8151b3d68"
-                  }
-              ]
+{
+  "schemaVersion": 1,
+  "version": "0.6.0",
+  "tag": "v0.6.0",
+  "sourceRepository": "petit-mint/kso",
+  "sourceCommit": "d9673666e6f16b255516fcc33066987ffef53921",
+  "releaseRepository": "petit-mint/kso-releases",
+  "releasePage": "https://github.com/petit-mint/kso-releases/releases/tag/v0.6.0",
+  "generatedAtUtc": "2026-09-06T02:21:01.7818432Z",
+  "files": [
+    {
+      "name": "KSO_Pilot_0.6.0_Distribution.zip",
+      "sizeBytes": 4964856,
+      "sha256": "5ff8b889b0d54ad62d123fe7966af14da010be0dc8bfde6b3f5b824e2ef4f449"
+    },
+    {
+      "name": "KSO_Pilot_0.6.0_x64-setup.exe",
+      "sizeBytes": 1391419,
+      "sha256": "e503066c32d435d48efa3b0c8286b76345dde2c20ec0e73f52ee6e95ed73998c"
+    },
+    {
+      "name": "KSO_Pilot_0.6.0_x64-setup.exe.sha256",
+      "sizeBytes": 95,
+      "sha256": "4bc9de30961f8d022b25d0fc0572c98bd13a14bec798822c25c76e7c807d06f2"
+    },
+    {
+      "name": "KSO_Operation_Guide_Pilot_0.6.0.zip",
+      "sizeBytes": 3455032,
+      "sha256": "fe969c39322e047eebf62d617cc1b74bb3ed0fa8ce7c274f409266a68bdfe3e4"
+    }
+  ]
 }
